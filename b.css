@@ -1,0 +1,82 @@
+.timx2 {
+	padding-left: 5px;
+	vertical-align: text-top;
+	
+	background-image: url(Image/oldpap.gif);
+	color: #000;
+	font-style: normal;
+}
+.style3 {font-size: 6px}
+#apdiv2 {border:ridge;
+border-width:thin;}
+#apdiv01 {border: thin; border-style:solid; border-color:#333399;
+background-image:url(Image/smbg.jpg); height:91px; width:91px;}
+.mnutp{ background-image:url(Image/menutp.jpg)
+}
+.mnubttm{background-image:url(Image/menubttm.jpg)
+}
+#apDiv1 {
+	position:absolute;
+	left:10px;
+	top:47px;
+	width:91px;
+	height:91px;
+	z-index:1;		
+}
+.tim3 {
+	border-bottom-style: outset;
+	border-bottom-color: #3399FF;
+	padding-right: 5px; 
+	vertical-align:text-top;
+	
+	 
+	
+}
+.tim2 {
+	border-right-style: none;
+	border-bottom-style: inset;
+	border-top-color: #3399FF;
+	border-right-color: #3399FF;
+	border-bottom-color: #000000;
+	border-left-color: #3399FF;
+	padding-left: 5px;
+	border-left-style: outset; 
+	vertical-align:text-top;
+	
+}
+.tim {
+	border-top-style: outset;
+	border-left-style: outset;
+	border-top-color: #3399FF;
+	border-left-color: #3399FF;
+	padding-left: 5px;
+	padding-right: 5px;
+	border-bottom-style: inset;
+	border-bottom-color: #3399FF; 
+	vertical-align:text-top;background:#FFFF99;
+	
+}
+.tim4 {
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+
+.style9 {
+	font-size: xx-large;
+	color: #70B607;
+	border: 0;
+}
+#mntble {width:100%;
+z-index:2; border:none;
+vertical-align:text-top;
+border:thin; 
+border-color:#000000;
+
+}
+
+#tptble {width="667";
+	border:medium;
+	border: thin groove #333399;
+	background:#33FFCC
+}
